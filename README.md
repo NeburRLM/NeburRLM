@@ -25,3 +25,6 @@ Feel free to reach out to me through the following channels:
 
 ## 📊 GitHub Stats
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeburRLM&show_icons=true&theme=radical)
+
+## 📈 GitHub Analytics
+[![Your Name's GitHub Analytics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NeburRLM&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
