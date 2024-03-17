@@ -1,16 +1,27 @@
-### Hi there 👋
+# 👋 Hello World, I'm Rubén!
 
-<!--
-**NeburRLM/NeburRLM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate computer engineer and I am always willing to learn and improve my qualities.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- **Languages:** Python, C, JavaScript, Java, 
+- **Frameworks:** React, Node.js
+- **Databases:** MySQL, MariaDB, Neo4j
+- **Tools:** Git, 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m currently learning
+- Machine Learning & AI
+- DevOps practices
+- UI/UX design principles
+
+## 🚀 My Projects
+- [Project 1](https://github.com/your_username/project-1): Description of Project 1.
+- [Project 2](https://github.com/your_username/project-2): Description of Project 2.
+
+## 💬 Let's Connect!
+Feel free to reach out to me through the following channels:
+
+- [Email](mailto:nebur.rlm@gmail.com)
+- [LinkedIn](www.linkedin.com/in/nebur-lopez-martinez-b10576139)
+
+## 📊 GitHub Stats
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeburRLM&show_icons=true&theme=radical)
