@@ -14,7 +14,7 @@ I'm a passionate computer engineer and I am always willing to learn and improve 
 - UI/UX design principles
 
 ## 🚀 My Projects
-- [Project 1](https://github.com/NeburRLM?tab=repositories): Description of Project 1.
+- [Projects](https://github.com/NeburRLM?tab=repositories): Repositories.
 
 ## 💬 Let's Connect!
 Feel free to reach out to me through the following channels:
